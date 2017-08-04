@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.just4cool.v1.V1Application
+

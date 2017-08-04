@@ -1,0 +1,802 @@
+2017-07-05 16:08:00,362 暂无需插入流水表的待生成文件标的
+2017-07-05 16:08:00,364 所有标的信息展示文件生成完毕
+2017-07-05 16:10:00,327 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@4b3bbbe1, com.ddsc.dao.systemqueue.SystemQueue@3eabd75d, com.ddsc.dao.systemqueue.SystemQueue@3c83ad0, com.ddsc.dao.systemqueue.SystemQueue@4e8d2fa0, com.ddsc.dao.systemqueue.SystemQueue@1731d9aa, com.ddsc.dao.systemqueue.SystemQueue@49c933cb, com.ddsc.dao.systemqueue.SystemQueue@38677a45, com.ddsc.dao.systemqueue.SystemQueue@118c64f1]
+2017-07-05 16:10:00,333 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000251], new=[100000000001000041], onemonth3=[100000000001000257], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 16:10:00,334 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 16:10:00,336 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 16:10:00,336 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 16:10:00,337 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 16:10:00,338 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 16:10:00,339 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 16:10:00,339 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 16:10:00,339 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 16:15:00,068 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@25b0aaa8, com.ddsc.dao.systemqueue.SystemQueue@71940eec, com.ddsc.dao.systemqueue.SystemQueue@2f5fe235, com.ddsc.dao.systemqueue.SystemQueue@3ffc1ddf, com.ddsc.dao.systemqueue.SystemQueue@410d3c4a, com.ddsc.dao.systemqueue.SystemQueue@4bf13fa3, com.ddsc.dao.systemqueue.SystemQueue@4b890d48, com.ddsc.dao.systemqueue.SystemQueue@12c718b6]
+2017-07-05 16:15:00,074 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000251], new=[100000000001000041], onemonth3=[100000000001000257], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 16:15:00,075 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 16:15:00,076 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 16:15:00,076 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 16:15:00,077 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 16:15:00,078 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 16:15:00,078 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 16:15:00,079 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 16:15:00,079 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 16:18:00,064 暂无需插入流水表的待生成文件标的
+2017-07-05 16:18:00,065 所有标的信息展示文件生成完毕
+2017-07-05 16:20:00,068 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@380c0ab2, com.ddsc.dao.systemqueue.SystemQueue@1e9248dd, com.ddsc.dao.systemqueue.SystemQueue@15edb4d9, com.ddsc.dao.systemqueue.SystemQueue@28fc1dce, com.ddsc.dao.systemqueue.SystemQueue@4008d467, com.ddsc.dao.systemqueue.SystemQueue@3b0d709, com.ddsc.dao.systemqueue.SystemQueue@4ef591c3, com.ddsc.dao.systemqueue.SystemQueue@5c34c1b4]
+2017-07-05 16:20:00,073 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000251], new=[100000000001000041], onemonth3=[100000000001000257], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 16:20:00,073 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 16:20:00,075 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 16:20:00,075 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 16:20:00,075 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 16:20:00,077 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 16:20:00,077 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 16:20:00,077 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 16:20:00,078 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 16:25:00,072 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@5c1c8876, com.ddsc.dao.systemqueue.SystemQueue@55432a38, com.ddsc.dao.systemqueue.SystemQueue@2c88ee43, com.ddsc.dao.systemqueue.SystemQueue@51d2878c, com.ddsc.dao.systemqueue.SystemQueue@54c1224b, com.ddsc.dao.systemqueue.SystemQueue@53b29565, com.ddsc.dao.systemqueue.SystemQueue@716e44d0, com.ddsc.dao.systemqueue.SystemQueue@7e67eddd]
+2017-07-05 16:25:00,077 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000251], new=[100000000001000041], onemonth3=[100000000001000257], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 16:25:00,078 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 16:25:00,079 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 16:25:00,080 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 16:25:00,080 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 16:25:00,081 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 16:25:00,082 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 16:25:00,082 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 16:25:00,082 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 16:28:00,055 暂无需插入流水表的待生成文件标的
+2017-07-05 16:28:00,056 所有标的信息展示文件生成完毕
+2017-07-05 16:30:00,074 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@611e6afe, com.ddsc.dao.systemqueue.SystemQueue@14027b82, com.ddsc.dao.systemqueue.SystemQueue@2efa9e11, com.ddsc.dao.systemqueue.SystemQueue@479f862f, com.ddsc.dao.systemqueue.SystemQueue@3a229c65, com.ddsc.dao.systemqueue.SystemQueue@3649c8b4, com.ddsc.dao.systemqueue.SystemQueue@2617bd44, com.ddsc.dao.systemqueue.SystemQueue@608acee5]
+2017-07-05 16:30:00,079 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000251], new=[100000000001000041], onemonth3=[100000000001000257], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 16:30:00,079 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 16:30:00,081 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 16:30:00,081 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 16:30:00,081 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 16:30:00,083 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 16:30:00,083 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 16:30:00,083 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 16:30:00,084 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 16:35:00,066 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@625fc3bd, com.ddsc.dao.systemqueue.SystemQueue@7d2bdfbf, com.ddsc.dao.systemqueue.SystemQueue@4b6eb4cc, com.ddsc.dao.systemqueue.SystemQueue@511fe3c4, com.ddsc.dao.systemqueue.SystemQueue@4a28278, com.ddsc.dao.systemqueue.SystemQueue@492396a8, com.ddsc.dao.systemqueue.SystemQueue@3f78151b, com.ddsc.dao.systemqueue.SystemQueue@64b1c02a]
+2017-07-05 16:35:00,071 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000251], new=[100000000001000041], onemonth3=[100000000001000257], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 16:35:00,072 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 16:35:00,073 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 16:35:00,073 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 16:35:00,074 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 16:35:00,075 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 16:35:00,075 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 16:35:00,076 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 16:35:00,076 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 16:38:00,044 暂无需插入流水表的待生成文件标的
+2017-07-05 16:38:00,045 所有标的信息展示文件生成完毕
+2017-07-05 16:40:00,064 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@3d59e583, com.ddsc.dao.systemqueue.SystemQueue@58eb1aec, com.ddsc.dao.systemqueue.SystemQueue@3334a98f, com.ddsc.dao.systemqueue.SystemQueue@4668058c, com.ddsc.dao.systemqueue.SystemQueue@57444e70, com.ddsc.dao.systemqueue.SystemQueue@4579c7d2, com.ddsc.dao.systemqueue.SystemQueue@3e2dcfa0, com.ddsc.dao.systemqueue.SystemQueue@319a3144]
+2017-07-05 16:40:00,070 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000251], new=[100000000001000041], onemonth3=[100000000001000257], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 16:40:00,070 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 16:40:00,072 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 16:40:00,072 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 16:40:00,072 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 16:40:00,074 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 16:40:00,074 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 16:40:00,074 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 16:40:00,075 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 16:45:00,070 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@2535e741, com.ddsc.dao.systemqueue.SystemQueue@75e16f7c, com.ddsc.dao.systemqueue.SystemQueue@235e725a, com.ddsc.dao.systemqueue.SystemQueue@da584da, com.ddsc.dao.systemqueue.SystemQueue@6db50b35, com.ddsc.dao.systemqueue.SystemQueue@8f2fcd8, com.ddsc.dao.systemqueue.SystemQueue@8b5cd7f, com.ddsc.dao.systemqueue.SystemQueue@57c65150]
+2017-07-05 16:45:00,075 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000251], new=[100000000001000041], onemonth3=[100000000001000257], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 16:45:00,075 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 16:45:00,077 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 16:45:00,077 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 16:45:00,077 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 16:45:00,079 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 16:45:00,079 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 16:45:00,079 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 16:45:00,080 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 16:48:00,043 暂无需插入流水表的待生成文件标的
+2017-07-05 16:48:00,045 所有标的信息展示文件生成完毕
+2017-07-05 16:50:00,073 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@510a85dd, com.ddsc.dao.systemqueue.SystemQueue@9da99bc, com.ddsc.dao.systemqueue.SystemQueue@6ea30ab1, com.ddsc.dao.systemqueue.SystemQueue@12132336, com.ddsc.dao.systemqueue.SystemQueue@266cb77f, com.ddsc.dao.systemqueue.SystemQueue@2b83068e, com.ddsc.dao.systemqueue.SystemQueue@27236af3, com.ddsc.dao.systemqueue.SystemQueue@6428b98]
+2017-07-05 16:50:00,077 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000251], new=[100000000001000041], onemonth3=[100000000001000257], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 16:50:00,078 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 16:50:00,079 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 16:50:00,080 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 16:50:00,080 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 16:50:00,082 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 16:50:00,082 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 16:50:00,082 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 16:50:00,083 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 16:55:00,067 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@1ab35146, com.ddsc.dao.systemqueue.SystemQueue@729cd85b, com.ddsc.dao.systemqueue.SystemQueue@17407926, com.ddsc.dao.systemqueue.SystemQueue@9d1b9b7, com.ddsc.dao.systemqueue.SystemQueue@27f7a26a, com.ddsc.dao.systemqueue.SystemQueue@72c7f1a5, com.ddsc.dao.systemqueue.SystemQueue@24c9c282, com.ddsc.dao.systemqueue.SystemQueue@3a00f7ac]
+2017-07-05 16:55:00,072 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000251], new=[100000000001000041], onemonth3=[100000000001000257], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 16:55:00,072 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 16:55:00,074 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 16:55:00,074 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 16:55:00,074 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 16:55:00,075 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 16:55:00,076 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 16:55:00,076 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 16:55:00,076 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 16:58:00,044 暂无需插入流水表的待生成文件标的
+2017-07-05 16:58:00,045 所有标的信息展示文件生成完毕
+2017-07-05 17:00:00,077 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@4b99ce2e, com.ddsc.dao.systemqueue.SystemQueue@5eaf54c8, com.ddsc.dao.systemqueue.SystemQueue@48e74708, com.ddsc.dao.systemqueue.SystemQueue@47e8839c, com.ddsc.dao.systemqueue.SystemQueue@72189ba5, com.ddsc.dao.systemqueue.SystemQueue@2d92a828, com.ddsc.dao.systemqueue.SystemQueue@775df177, com.ddsc.dao.systemqueue.SystemQueue@3897f8da]
+2017-07-05 17:00:00,081 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000251], new=[100000000001000041], onemonth3=[100000000001000257], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 17:00:00,082 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 17:00:00,083 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 17:00:00,083 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 17:00:00,084 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 17:00:00,085 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 17:00:00,085 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 17:00:00,086 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 17:00:00,086 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 17:05:00,068 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@54f45460, com.ddsc.dao.systemqueue.SystemQueue@74cf9632, com.ddsc.dao.systemqueue.SystemQueue@688de887, com.ddsc.dao.systemqueue.SystemQueue@3c9d2cb1, com.ddsc.dao.systemqueue.SystemQueue@72e1378d, com.ddsc.dao.systemqueue.SystemQueue@200644e7, com.ddsc.dao.systemqueue.SystemQueue@7b95aa1d, com.ddsc.dao.systemqueue.SystemQueue@1ed3954e]
+2017-07-05 17:05:00,074 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000251], new=[100000000001000041], onemonth3=[100000000001000257], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 17:05:00,075 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 17:05:00,076 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 17:05:00,077 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 17:05:00,077 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 17:05:00,078 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 17:05:00,079 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 17:05:00,079 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 17:05:00,079 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 17:08:00,046 暂无需插入流水表的待生成文件标的
+2017-07-05 17:08:00,047 所有标的信息展示文件生成完毕
+2017-07-05 17:10:00,065 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@7c8ea449, com.ddsc.dao.systemqueue.SystemQueue@78c3f481, com.ddsc.dao.systemqueue.SystemQueue@8e97f18, com.ddsc.dao.systemqueue.SystemQueue@1997053a, com.ddsc.dao.systemqueue.SystemQueue@9d82ff6, com.ddsc.dao.systemqueue.SystemQueue@5034c486, com.ddsc.dao.systemqueue.SystemQueue@3852628d, com.ddsc.dao.systemqueue.SystemQueue@28c433de]
+2017-07-05 17:10:00,070 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000251], new=[100000000001000041], onemonth3=[100000000001000257], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 17:10:00,070 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 17:10:00,074 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 17:10:00,075 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 17:10:00,075 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 17:10:00,076 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 17:10:00,077 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 17:10:00,077 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 17:10:00,078 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 17:15:00,072 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@22425573, com.ddsc.dao.systemqueue.SystemQueue@30f80297, com.ddsc.dao.systemqueue.SystemQueue@6a72209e, com.ddsc.dao.systemqueue.SystemQueue@6abb9baa, com.ddsc.dao.systemqueue.SystemQueue@42e8eca4, com.ddsc.dao.systemqueue.SystemQueue@4a08254d, com.ddsc.dao.systemqueue.SystemQueue@5cc90833, com.ddsc.dao.systemqueue.SystemQueue@12397bdc]
+2017-07-05 17:15:00,077 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000251], new=[100000000001000041], onemonth3=[100000000001000257], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 17:15:00,077 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 17:15:00,079 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 17:15:00,079 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 17:15:00,079 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 17:15:00,081 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 17:15:00,081 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 17:15:00,081 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 17:15:00,082 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 17:18:00,041 暂无需插入流水表的待生成文件标的
+2017-07-05 17:18:00,043 所有标的信息展示文件生成完毕
+2017-07-05 17:20:00,065 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@1f15f1a, com.ddsc.dao.systemqueue.SystemQueue@d9aa4f5, com.ddsc.dao.systemqueue.SystemQueue@23c3d7cd, com.ddsc.dao.systemqueue.SystemQueue@e8ce613, com.ddsc.dao.systemqueue.SystemQueue@4454f0db, com.ddsc.dao.systemqueue.SystemQueue@2490dce9, com.ddsc.dao.systemqueue.SystemQueue@229757c0, com.ddsc.dao.systemqueue.SystemQueue@7e020ffd]
+2017-07-05 17:20:00,070 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000251], new=[100000000001000041], onemonth3=[100000000001000257], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 17:20:00,070 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 17:20:00,071 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 17:20:00,072 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 17:20:00,072 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 17:20:00,073 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 17:20:00,074 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 17:20:00,074 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 17:20:00,074 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 17:25:00,068 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@b17867b, com.ddsc.dao.systemqueue.SystemQueue@357dfaed, com.ddsc.dao.systemqueue.SystemQueue@61e4f90a, com.ddsc.dao.systemqueue.SystemQueue@7f9a31bb, com.ddsc.dao.systemqueue.SystemQueue@64372d6f, com.ddsc.dao.systemqueue.SystemQueue@628805cf, com.ddsc.dao.systemqueue.SystemQueue@50358b92, com.ddsc.dao.systemqueue.SystemQueue@6b5e4761]
+2017-07-05 17:25:00,072 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000251], new=[100000000001000041], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 17:25:00,072 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 17:25:00,074 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 17:25:00,074 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 17:25:00,075 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 17:25:00,076 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 17:25:00,076 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 17:25:00,077 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 17:25:00,107 同步100000000001000258标的信息至恒丰系统，请求报文：{"borrowPeriod":"15","borrowProfit":"0.00","borrowRate":"6.50","cardNo":"6228461338015819870","certNo":"370828197910204711","collEndDate":"20170804","collStartDate":"20170705","customerName":"蔡俊","endDate":"20170719","flatProfit":"0.00","investAmount":"61000.00","orderDate":"20170705","orderTime":"172500","projectLastDate":"20170719","projectName":"提薪计划一期JN1500","projectNo":"100000000001000258","rateRange":"1,30","repaymentType":"1","serialNo":"201707051499246700097","startDate":"20170705"}
+2017-07-05 17:25:00,383 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"transDate":"20170705","transTime":"20170705172500"},"timeOut":false}
+2017-07-05 17:25:00,387 同步100000000001000258标的白名单信息信息至恒丰系统，请求报文：{"accountType":"BANKCARD","cardNo":"6236681540006160175","certNo":"33108119811118321X","customerName":"林慧兵","orderDate":"20170705","orderTime":"172500","projectNo":"100000000001000258","serialNo":"201707051499246700097"}
+2017-07-05 17:25:00,621 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"orderSerial":null,"orderDate":"20170705","orderTime":"20170705172501"},"timeOut":false}
+2017-07-05 17:25:01,108 同步标的至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":null,"timeOut":false}
+2017-07-05 17:25:01,109 标的信息同步成功！itemid：100000000001000258
+2017-07-05 17:25:01,140 同步标的兑付计划至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":true,"timeOut":false}
+2017-07-05 17:25:01,141 标的兑付计划同步成功！
+2017-07-05 17:25:01,141 同步标的至本地产品系统成功，
+2017-07-05 17:25:01,152 推送标的上线成功，标的ID：100000000001000258，标的名：提薪计划一期JN1500
+2017-07-05 17:28:00,044 暂无需插入流水表的待生成文件标的
+2017-07-05 17:28:00,046 所有标的信息展示文件生成完毕
+2017-07-05 17:30:00,076 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@56bc7b43, com.ddsc.dao.systemqueue.SystemQueue@70409831, com.ddsc.dao.systemqueue.SystemQueue@20c7f28a, com.ddsc.dao.systemqueue.SystemQueue@270452d6, com.ddsc.dao.systemqueue.SystemQueue@cda739d, com.ddsc.dao.systemqueue.SystemQueue@59dc4f02, com.ddsc.dao.systemqueue.SystemQueue@ec73a65, com.ddsc.dao.systemqueue.SystemQueue@39cac477]
+2017-07-05 17:30:00,081 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000251], new=[100000000001000041], onemonth3=[100000000001000258], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 17:30:00,081 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 17:30:00,082 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 17:30:00,083 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 17:30:00,083 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 17:30:00,084 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 17:30:00,085 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 17:30:00,085 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 17:30:00,085 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 17:35:00,064 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@71689068, com.ddsc.dao.systemqueue.SystemQueue@7e0d603, com.ddsc.dao.systemqueue.SystemQueue@3a0262ff, com.ddsc.dao.systemqueue.SystemQueue@72b17119, com.ddsc.dao.systemqueue.SystemQueue@5f785b22, com.ddsc.dao.systemqueue.SystemQueue@56a74625, com.ddsc.dao.systemqueue.SystemQueue@7fee5394, com.ddsc.dao.systemqueue.SystemQueue@77b15b29]
+2017-07-05 17:35:00,068 线上在售队列：{onemonth=[100000000001000229], new=[100000000001000041], onemonth3=[100000000001000258], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 17:35:00,069 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 17:35:00,070 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 17:35:00,070 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 17:35:00,071 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 17:35:00,072 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 17:35:00,073 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 17:35:00,074 推送产品上线失败,该队列为空,队列名：onemonth2
+2017-07-05 17:35:00,074 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 17:38:00,046 暂无需插入流水表的待生成文件标的
+2017-07-05 17:38:00,047 所有标的信息展示文件生成完毕
+2017-07-05 17:40:00,068 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@5f80641c, com.ddsc.dao.systemqueue.SystemQueue@662c9b3f, com.ddsc.dao.systemqueue.SystemQueue@7a847980, com.ddsc.dao.systemqueue.SystemQueue@f450157, com.ddsc.dao.systemqueue.SystemQueue@7b5afe95, com.ddsc.dao.systemqueue.SystemQueue@13002778, com.ddsc.dao.systemqueue.SystemQueue@6f1f4106, com.ddsc.dao.systemqueue.SystemQueue@6ce629e8]
+2017-07-05 17:40:00,072 线上在售队列：{onemonth=[100000000001000229], new=[100000000001000041], onemonth3=[100000000001000258], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 17:40:00,073 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 17:40:00,074 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 17:40:00,074 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 17:40:00,075 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 17:40:00,076 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 17:40:00,076 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 17:40:00,077 推送产品上线失败,该队列为空,队列名：onemonth2
+2017-07-05 17:40:00,078 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 17:45:00,064 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@7aa598d, com.ddsc.dao.systemqueue.SystemQueue@40dd3be9, com.ddsc.dao.systemqueue.SystemQueue@7c885f43, com.ddsc.dao.systemqueue.SystemQueue@5d266794, com.ddsc.dao.systemqueue.SystemQueue@45a5553, com.ddsc.dao.systemqueue.SystemQueue@4697be60, com.ddsc.dao.systemqueue.SystemQueue@1453b4d5, com.ddsc.dao.systemqueue.SystemQueue@3851660]
+2017-07-05 17:45:00,069 线上在售队列：{onemonth=[100000000001000229], new=[100000000001000041], onemonth3=[100000000001000258], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 17:45:00,069 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 17:45:00,070 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 17:45:00,071 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 17:45:00,071 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 17:45:00,072 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 17:45:00,073 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 17:45:00,074 推送产品上线失败,该队列为空,队列名：onemonth2
+2017-07-05 17:45:00,075 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 17:48:00,039 暂无需插入流水表的待生成文件标的
+2017-07-05 17:48:00,041 所有标的信息展示文件生成完毕
+2017-07-05 17:50:00,066 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@db9f79b, com.ddsc.dao.systemqueue.SystemQueue@2c2ee827, com.ddsc.dao.systemqueue.SystemQueue@3b8b6f1a, com.ddsc.dao.systemqueue.SystemQueue@3f2b3280, com.ddsc.dao.systemqueue.SystemQueue@2d0091e6, com.ddsc.dao.systemqueue.SystemQueue@6aaa1f, com.ddsc.dao.systemqueue.SystemQueue@5ac6d96f, com.ddsc.dao.systemqueue.SystemQueue@34ed34f8]
+2017-07-05 17:50:00,070 线上在售队列：{onemonth=[100000000001000229], new=[100000000001000041], onemonth3=[100000000001000258], onlinenow=[100000000001000280], oneyear=[100000000001000145]}
+2017-07-05 17:50:00,071 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 17:50:00,072 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 17:50:00,072 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 17:50:00,073 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 17:50:00,074 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 17:50:00,074 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 17:50:00,076 推送产品上线失败,该队列为空,队列名：onemonth2
+2017-07-05 17:50:00,076 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 17:55:00,062 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@4471f8e7, com.ddsc.dao.systemqueue.SystemQueue@168c28cc, com.ddsc.dao.systemqueue.SystemQueue@4bca74a4, com.ddsc.dao.systemqueue.SystemQueue@58afe1db, com.ddsc.dao.systemqueue.SystemQueue@3151e5a, com.ddsc.dao.systemqueue.SystemQueue@5f7ba84a, com.ddsc.dao.systemqueue.SystemQueue@2f65c33f, com.ddsc.dao.systemqueue.SystemQueue@41f57568]
+2017-07-05 17:55:00,065 线上在售队列：{onemonth=[100000000001000229], new=[100000000001000041], onemonth3=[100000000001000258], oneyear=[100000000001000145]}
+2017-07-05 17:55:00,067 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 17:55:00,068 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 17:55:00,068 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 17:55:00,069 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 17:55:00,070 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 17:55:00,071 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 17:55:00,072 推送产品上线失败,该队列为空,队列名：onemonth2
+2017-07-05 17:55:00,073 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 17:58:00,039 暂无需插入流水表的待生成文件标的
+2017-07-05 17:58:00,041 所有标的信息展示文件生成完毕
+2017-07-05 18:00:00,089 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@624eaf00, com.ddsc.dao.systemqueue.SystemQueue@1bc35b6c, com.ddsc.dao.systemqueue.SystemQueue@36a71db1, com.ddsc.dao.systemqueue.SystemQueue@158e6b7f, com.ddsc.dao.systemqueue.SystemQueue@393369e7, com.ddsc.dao.systemqueue.SystemQueue@5e6dda07, com.ddsc.dao.systemqueue.SystemQueue@7e0531ff, com.ddsc.dao.systemqueue.SystemQueue@7159cfc]
+2017-07-05 18:00:00,093 线上在售队列：{onemonth=[100000000001000229], new=[100000000001000041], onemonth3=[100000000001000258], oneyear=[100000000001000145]}
+2017-07-05 18:00:00,094 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 18:00:00,095 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 18:00:00,096 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 18:00:00,096 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 18:00:00,097 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 18:00:00,097 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 18:00:00,099 推送产品上线失败,该队列为空,队列名：onemonth2
+2017-07-05 18:00:00,099 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 18:05:00,065 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@7cb6633e, com.ddsc.dao.systemqueue.SystemQueue@2a2dbb69, com.ddsc.dao.systemqueue.SystemQueue@206b0021, com.ddsc.dao.systemqueue.SystemQueue@50d58727, com.ddsc.dao.systemqueue.SystemQueue@729c3ae6, com.ddsc.dao.systemqueue.SystemQueue@6edf0cd2, com.ddsc.dao.systemqueue.SystemQueue@75c2e7db, com.ddsc.dao.systemqueue.SystemQueue@4f041743]
+2017-07-05 18:05:00,069 线上在售队列：{onemonth=[100000000001000229], new=[100000000001000041], onemonth3=[100000000001000258], oneyear=[100000000001000145]}
+2017-07-05 18:05:00,070 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 18:05:00,071 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 18:05:00,072 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 18:05:00,072 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 18:05:00,073 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 18:05:00,073 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 18:05:00,075 推送产品上线失败,该队列为空,队列名：onemonth2
+2017-07-05 18:05:00,075 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 18:08:00,032 暂无需插入流水表的待生成文件标的
+2017-07-05 18:08:00,034 所有标的信息展示文件生成完毕
+2017-07-05 18:10:00,068 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@3f31a783, com.ddsc.dao.systemqueue.SystemQueue@54eca9de, com.ddsc.dao.systemqueue.SystemQueue@7d845960, com.ddsc.dao.systemqueue.SystemQueue@7c07ee00, com.ddsc.dao.systemqueue.SystemQueue@6c9a819d, com.ddsc.dao.systemqueue.SystemQueue@13b3a21f, com.ddsc.dao.systemqueue.SystemQueue@7658ab53, com.ddsc.dao.systemqueue.SystemQueue@375812d8]
+2017-07-05 18:10:00,071 线上在售队列：{onemonth=[100000000001000229], new=[100000000001000041], onemonth3=[100000000001000258], oneyear=[100000000001000145]}
+2017-07-05 18:10:00,073 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 18:10:00,074 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 18:10:00,074 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 18:10:00,075 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 18:10:00,076 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 18:10:00,076 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 18:10:00,078 推送产品上线失败,该队列为空,队列名：onemonth2
+2017-07-05 18:10:00,078 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 18:15:00,070 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@49ba5395, com.ddsc.dao.systemqueue.SystemQueue@67c58103, com.ddsc.dao.systemqueue.SystemQueue@5799212e, com.ddsc.dao.systemqueue.SystemQueue@6517ff0, com.ddsc.dao.systemqueue.SystemQueue@50a668cd, com.ddsc.dao.systemqueue.SystemQueue@5d2a9418, com.ddsc.dao.systemqueue.SystemQueue@1660e371, com.ddsc.dao.systemqueue.SystemQueue@32f41b31]
+2017-07-05 18:15:00,073 线上在售队列：{onemonth=[100000000001000229], new=[100000000001000041], onemonth3=[100000000001000258], oneyear=[100000000001000145]}
+2017-07-05 18:15:00,075 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 18:15:00,076 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 18:15:00,076 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 18:15:00,077 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 18:15:00,078 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 18:15:00,078 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 18:15:00,080 推送产品上线失败,该队列为空,队列名：onemonth2
+2017-07-05 18:15:00,080 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 18:18:00,039 暂无需插入流水表的待生成文件标的
+2017-07-05 18:18:00,040 所有标的信息展示文件生成完毕
+2017-07-05 18:20:00,069 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@38183a1c, com.ddsc.dao.systemqueue.SystemQueue@3e8f2109, com.ddsc.dao.systemqueue.SystemQueue@26c1f5f5, com.ddsc.dao.systemqueue.SystemQueue@7fabbb4, com.ddsc.dao.systemqueue.SystemQueue@5e392a83, com.ddsc.dao.systemqueue.SystemQueue@7b162ec8, com.ddsc.dao.systemqueue.SystemQueue@6d598b99, com.ddsc.dao.systemqueue.SystemQueue@11dc21e5]
+2017-07-05 18:20:00,072 线上在售队列：{onemonth=[100000000001000229], new=[100000000001000041], onemonth3=[100000000001000258], oneyear=[100000000001000145]}
+2017-07-05 18:20:00,074 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 18:20:00,075 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 18:20:00,076 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 18:20:00,076 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 18:20:00,077 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 18:20:00,078 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 18:20:00,079 推送产品上线失败,该队列为空,队列名：onemonth2
+2017-07-05 18:20:00,079 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 18:25:00,066 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@5d90de52, com.ddsc.dao.systemqueue.SystemQueue@51f4097b, com.ddsc.dao.systemqueue.SystemQueue@6c9a9445, com.ddsc.dao.systemqueue.SystemQueue@187c75b7, com.ddsc.dao.systemqueue.SystemQueue@13144df0, com.ddsc.dao.systemqueue.SystemQueue@1a08d159, com.ddsc.dao.systemqueue.SystemQueue@38e83769, com.ddsc.dao.systemqueue.SystemQueue@158debaf]
+2017-07-05 18:25:00,071 线上在售队列：{onemonth=[100000000001000229], new=[100000000001000041], onemonth3=[100000000001000258], oneyear=[100000000001000145]}
+2017-07-05 18:25:00,072 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 18:25:00,073 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 18:25:00,074 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 18:25:00,074 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 18:25:00,075 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 18:25:00,076 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 18:25:00,077 推送产品上线失败,该队列为空,队列名：onemonth2
+2017-07-05 18:25:00,077 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 18:28:00,036 暂无需插入流水表的待生成文件标的
+2017-07-05 18:28:00,038 所有标的信息展示文件生成完毕
+2017-07-05 18:30:00,070 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@6ee00905, com.ddsc.dao.systemqueue.SystemQueue@36706021, com.ddsc.dao.systemqueue.SystemQueue@bb73273, com.ddsc.dao.systemqueue.SystemQueue@28512207, com.ddsc.dao.systemqueue.SystemQueue@66910e3e, com.ddsc.dao.systemqueue.SystemQueue@3d3e3d0d, com.ddsc.dao.systemqueue.SystemQueue@411a3fe4, com.ddsc.dao.systemqueue.SystemQueue@2258b320]
+2017-07-05 18:30:00,074 线上在售队列：{onemonth=[100000000001000229], new=[100000000001000041], onemonth3=[100000000001000258], oneyear=[100000000001000145]}
+2017-07-05 18:30:00,075 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 18:30:00,077 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 18:30:00,077 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 18:30:00,077 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 18:30:00,078 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 18:30:00,079 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 18:30:00,080 推送产品上线失败,该队列为空,队列名：onemonth2
+2017-07-05 18:30:00,080 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 18:35:00,072 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@665ce19b, com.ddsc.dao.systemqueue.SystemQueue@5bdfbb9d, com.ddsc.dao.systemqueue.SystemQueue@3d966f8a, com.ddsc.dao.systemqueue.SystemQueue@5f74ec9c, com.ddsc.dao.systemqueue.SystemQueue@755a26b9, com.ddsc.dao.systemqueue.SystemQueue@71a477df, com.ddsc.dao.systemqueue.SystemQueue@64ba0bc2, com.ddsc.dao.systemqueue.SystemQueue@725a2137]
+2017-07-05 18:35:00,075 线上在售队列：{onemonth=[100000000001000229], new=[100000000001000041], onemonth3=[100000000001000258], oneyear=[100000000001000145]}
+2017-07-05 18:35:00,076 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 18:35:00,078 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 18:35:00,078 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 18:35:00,078 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 18:35:00,080 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 18:35:00,080 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 18:35:00,081 推送产品上线失败,该队列为空,队列名：onemonth2
+2017-07-05 18:35:00,082 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 18:38:00,031 暂无需插入流水表的待生成文件标的
+2017-07-05 18:38:00,033 所有标的信息展示文件生成完毕
+2017-07-05 18:40:00,070 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@3344006c, com.ddsc.dao.systemqueue.SystemQueue@3577ccbf, com.ddsc.dao.systemqueue.SystemQueue@4c232b05, com.ddsc.dao.systemqueue.SystemQueue@18dd7c50, com.ddsc.dao.systemqueue.SystemQueue@750c74f0, com.ddsc.dao.systemqueue.SystemQueue@4d17499, com.ddsc.dao.systemqueue.SystemQueue@533deb47, com.ddsc.dao.systemqueue.SystemQueue@621ad03]
+2017-07-05 18:40:00,073 线上在售队列：{onemonth=[100000000001000229], new=[100000000001000041], onemonth3=[100000000001000258], oneyear=[100000000001000145]}
+2017-07-05 18:40:00,075 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 18:40:00,076 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 18:40:00,076 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 18:40:00,077 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 18:40:00,078 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 18:40:00,078 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 18:40:00,079 推送产品上线失败,该队列为空,队列名：onemonth2
+2017-07-05 18:40:00,080 该队列无需推标上线，该队列有在售标的：onemonth3
+2017-07-05 18:45:00,072 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@79342f17, com.ddsc.dao.systemqueue.SystemQueue@50ffcd2b, com.ddsc.dao.systemqueue.SystemQueue@49f6eb98, com.ddsc.dao.systemqueue.SystemQueue@71e56e17, com.ddsc.dao.systemqueue.SystemQueue@d9ee26c, com.ddsc.dao.systemqueue.SystemQueue@3a232770, com.ddsc.dao.systemqueue.SystemQueue@59f247e1, com.ddsc.dao.systemqueue.SystemQueue@314d32e9]
+2017-07-05 18:45:00,074 线上在售队列：{onemonth=[100000000001000229], new=[100000000001000041], oneyear=[100000000001000145]}
+2017-07-05 18:45:00,076 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 18:45:00,077 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 18:45:00,077 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 18:45:00,078 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 18:45:00,079 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 18:45:00,079 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 18:45:00,080 推送产品上线失败,该队列为空,队列名：onemonth2
+2017-07-05 18:45:00,082 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 18:48:00,396 产品说明上传成功,itemid100000000001000281
+2017-07-05 18:48:00,478 文件生成完毕，itemid：100000000001000281
+2017-07-05 18:48:00,968 产品说明上传成功,itemid100000000001000282
+2017-07-05 18:48:01,166 文件生成完毕，itemid：100000000001000282
+2017-07-05 18:50:00,066 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@4e028613, com.ddsc.dao.systemqueue.SystemQueue@7b07168, com.ddsc.dao.systemqueue.SystemQueue@50e566c9, com.ddsc.dao.systemqueue.SystemQueue@4bf3f9d, com.ddsc.dao.systemqueue.SystemQueue@27e95eda, com.ddsc.dao.systemqueue.SystemQueue@4a524eae, com.ddsc.dao.systemqueue.SystemQueue@61aba7a0, com.ddsc.dao.systemqueue.SystemQueue@4c8a2b78]
+2017-07-05 18:50:00,069 线上在售队列：{onemonth=[100000000001000229], new=[100000000001000041], oneyear=[100000000001000145]}
+2017-07-05 18:50:00,071 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 18:50:00,072 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 18:50:00,073 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 18:50:00,073 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 18:50:00,074 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 18:50:00,074 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 18:50:00,093 同步100000000001000259标的信息至恒丰系统，请求报文：{"borrowPeriod":"15","borrowProfit":"0.00","borrowRate":"6.50","cardNo":"6217002160011957648","certNo":"370304198208121920","collEndDate":"20170804","collStartDate":"20170705","customerName":"冯玲娜","endDate":"20170720","flatProfit":"0.00","investAmount":"99000.00","orderDate":"20170705","orderTime":"185000","projectLastDate":"20170720","projectName":"提薪计划一期JN1501","projectNo":"100000000001000259","rateRange":"1,30","repaymentType":"1","serialNo":"201707051499251800085","startDate":"20170705"}
+2017-07-05 18:50:00,325 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"transDate":"20170705","transTime":"20170705185000"},"timeOut":false}
+2017-07-05 18:50:00,329 同步100000000001000259标的白名单信息信息至恒丰系统，请求报文：{"accountType":"BANKCARD","cardNo":"6236681540006160175","certNo":"33108119811118321X","customerName":"林慧兵","orderDate":"20170705","orderTime":"185000","projectNo":"100000000001000259","serialNo":"201707051499251800085"}
+2017-07-05 18:50:06,854 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"orderSerial":null,"orderDate":"20170705","orderTime":"20170705185007"},"timeOut":false}
+2017-07-05 18:50:06,940 同步标的至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":null,"timeOut":false}
+2017-07-05 18:50:06,940 标的信息同步成功！itemid：100000000001000259
+2017-07-05 18:50:06,972 同步标的兑付计划至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":true,"timeOut":false}
+2017-07-05 18:50:06,972 标的兑付计划同步成功！
+2017-07-05 18:50:06,972 同步标的至本地产品系统成功，
+2017-07-05 18:50:06,982 推送标的上线成功，标的ID：100000000001000259，标的名：提薪计划一期JN1501
+2017-07-05 18:50:06,983 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 18:55:00,072 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@3d0fa931, com.ddsc.dao.systemqueue.SystemQueue@4f2cef48, com.ddsc.dao.systemqueue.SystemQueue@f118894, com.ddsc.dao.systemqueue.SystemQueue@481db446, com.ddsc.dao.systemqueue.SystemQueue@162684a7, com.ddsc.dao.systemqueue.SystemQueue@3acefb4d, com.ddsc.dao.systemqueue.SystemQueue@6ad49a64, com.ddsc.dao.systemqueue.SystemQueue@2be45207]
+2017-07-05 18:55:00,076 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000259], new=[100000000001000041], oneyear=[100000000001000145]}
+2017-07-05 18:55:00,077 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 18:55:00,079 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 18:55:00,079 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 18:55:00,079 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 18:55:00,081 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 18:55:00,081 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 18:55:00,081 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 18:55:00,082 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 18:58:00,559 产品说明上传成功,itemid100000000001000283
+2017-07-05 18:58:00,654 文件生成完毕，itemid：100000000001000283
+2017-07-05 18:58:00,849 产品说明上传成功,itemid100000000001000284
+2017-07-05 18:58:00,965 文件生成完毕，itemid：100000000001000284
+2017-07-05 18:58:01,209 产品说明上传成功,itemid100000000001000285
+2017-07-05 18:58:01,305 文件生成完毕，itemid：100000000001000285
+2017-07-05 18:58:01,507 产品说明上传成功,itemid100000000001000286
+2017-07-05 18:58:01,590 文件生成完毕，itemid：100000000001000286
+2017-07-05 18:58:01,871 产品说明上传成功,itemid100000000001000287
+2017-07-05 18:58:01,952 文件生成完毕，itemid：100000000001000287
+2017-07-05 18:58:02,305 产品说明上传成功,itemid100000000001000288
+2017-07-05 18:58:02,396 文件生成完毕，itemid：100000000001000288
+2017-07-05 18:58:02,851 产品说明上传成功,itemid100000000001000289
+2017-07-05 18:58:02,921 文件生成完毕，itemid：100000000001000289
+2017-07-05 18:58:03,157 产品说明上传成功,itemid100000000001000290
+2017-07-05 18:58:03,306 文件生成完毕，itemid：100000000001000290
+2017-07-05 18:58:03,502 产品说明上传成功,itemid100000000001000291
+2017-07-05 18:58:03,582 文件生成完毕，itemid：100000000001000291
+2017-07-05 19:00:00,066 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@16a0eed5, com.ddsc.dao.systemqueue.SystemQueue@1f9fed8e, com.ddsc.dao.systemqueue.SystemQueue@3ca515da, com.ddsc.dao.systemqueue.SystemQueue@7a3dba50, com.ddsc.dao.systemqueue.SystemQueue@6a9318e2, com.ddsc.dao.systemqueue.SystemQueue@5f46d417, com.ddsc.dao.systemqueue.SystemQueue@230e62df, com.ddsc.dao.systemqueue.SystemQueue@57d3074]
+2017-07-05 19:00:00,070 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000259], new=[100000000001000041], oneyear=[100000000001000145]}
+2017-07-05 19:00:00,071 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 19:00:00,072 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 19:00:00,073 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 19:00:00,073 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 19:00:00,074 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 19:00:00,074 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 19:00:00,075 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 19:00:00,076 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 19:05:00,072 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@5e108639, com.ddsc.dao.systemqueue.SystemQueue@edc386e, com.ddsc.dao.systemqueue.SystemQueue@1bfcc561, com.ddsc.dao.systemqueue.SystemQueue@700271a1, com.ddsc.dao.systemqueue.SystemQueue@30723a7a, com.ddsc.dao.systemqueue.SystemQueue@1b5d386f, com.ddsc.dao.systemqueue.SystemQueue@5240d72, com.ddsc.dao.systemqueue.SystemQueue@1eeba01]
+2017-07-05 19:05:00,075 线上在售队列：{onemonth=[100000000001000229], onemonth2=[100000000001000259], new=[100000000001000041], oneyear=[100000000001000145]}
+2017-07-05 19:05:00,094 同步100000000001000283标的信息至恒丰系统，请求报文：{"accountName":"深圳市百合顺供应链管理有限公司","accountNo":"41020000040018539","borrowPeriod":"30","borrowProfit":"0.00","borrowRate":"7.00","businessName":"深圳市百合顺供应链管理有限公司","businessNo":"91440300568502732H","collEndDate":"20170804","collStartDate":"20170705","endDate":"20170804","flatProfit":"0.00","investAmount":"500000.00","maxButAmt":"500000.00","minBuyAmt":"500.00","openBank":"中国农业银行深圳新宝支行","orderDate":"20170705","orderTime":"190500","projectLastDate":"20170804","projectName":"退税宝070","projectNo":"100000000001000283","rateRange":"1,30","repaymentType":"1","riskAmount":"0.00","serialNo":"201707051499252700087","startDate":"20170705"}
+2017-07-05 19:05:00,359 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"transDate":"20170705","transTime":"20170705190500"},"timeOut":false}
+2017-07-05 19:05:00,427 同步标的至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":null,"timeOut":false}
+2017-07-05 19:05:00,428 标的信息同步成功！itemid：100000000001000283
+2017-07-05 19:05:00,462 同步标的兑付计划至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":true,"timeOut":false}
+2017-07-05 19:05:00,462 标的兑付计划同步成功！
+2017-07-05 19:05:00,462 同步标的至本地产品系统成功，
+2017-07-05 19:05:00,472 推送标的上线成功，标的ID：100000000001000283，标的名：退税宝070
+2017-07-05 19:05:00,473 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 19:05:00,473 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 19:05:00,474 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 19:05:00,488 同步100000000001000183标的信息至恒丰系统，请求报文：{"accountName":"科睿科技（杭州）有限公司","accountNo":"1202020309900278266","borrowPeriod":"100","borrowProfit":"0.00","borrowRate":"8.50","businessName":"科睿科技（杭州）有限公司","businessNo":"913301023419572065","collEndDate":"20170804","collStartDate":"20170705","endDate":"20171012","flatProfit":"0.00","investAmount":"691000.00","maxButAmt":"691000.00","minBuyAmt":"1000.00","openBank":"中国工商银行江城支行","orderDate":"20170705","orderTime":"190500","projectLastDate":"20171012","projectName":"淘利宝KR187","projectNo":"100000000001000183","rateRange":"1,30","repaymentType":"1","riskAmount":"0.00","serialNo":"201707051499252700483","startDate":"20170705"}
+2017-07-05 19:05:00,729 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"transDate":"20170705","transTime":"20170705190501"},"timeOut":false}
+2017-07-05 19:05:00,732 同步100000000001000183标的白名单信息信息至恒丰系统，请求报文：{"accountType":"BANKCARD","cardNo":"1202020309900278266","certNo":"913301023419572065","customerName":"科睿科技（杭州）有限公司","orderDate":"20170705","orderTime":"190500","projectNo":"100000000001000183","serialNo":"201707051499252700483"}
+2017-07-05 19:05:01,039 {"success":false,"returnCode":"9998","errorCode":"DE1-103-L4-00-999-99-9998|DE1-103-L4-01-999-99-9997","errorStack":null,"errorMsg":"系统异常|身份证号码格式有误，请重新输入","result":null,"timeOut":false}
+2017-07-05 19:05:01,041 上传白名单失败系统异常|身份证号码格式有误，请重新输入
+2017-07-05 19:05:01,044 推送产品上线失败,同步至恒丰系统失败,产品ID：100000000001000183
+2017-07-05 19:05:01,059 同步100000000001000202标的信息至恒丰系统，请求报文：{"accountName":"科睿科技（杭州）有限公司","accountNo":"1202020309900278266","borrowPeriod":"98","borrowProfit":"0.00","borrowRate":"8.50","businessName":"科睿科技（杭州）有限公司","businessNo":"913301023419572065","collEndDate":"20170804","collStartDate":"20170705","endDate":"20171010","flatProfit":"0.00","investAmount":"500000.00","maxButAmt":"500000.00","minBuyAmt":"1000.00","openBank":"中国工商银行江城支行","orderDate":"20170705","orderTime":"190501","projectLastDate":"20171010","projectName":"淘利宝KR189","projectNo":"100000000001000202","rateRange":"1,30","repaymentType":"1","riskAmount":"0.00","serialNo":"201707051499252701052","startDate":"20170705"}
+2017-07-05 19:05:01,297 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"transDate":"20170705","transTime":"20170705190501"},"timeOut":false}
+2017-07-05 19:05:01,301 同步100000000001000202标的白名单信息信息至恒丰系统，请求报文：{"accountType":"BANKCARD","cardNo":"1202020309900278266","certNo":"913301023419572065","customerName":"科睿科技（杭州）有限公司","orderDate":"20170705","orderTime":"190501","projectNo":"100000000001000202","serialNo":"201707051499252701052"}
+2017-07-05 19:05:07,878 {"success":false,"returnCode":"9998","errorCode":"DE1-103-L4-00-999-99-9998|DE1-103-L4-01-999-99-9997","errorStack":null,"errorMsg":"系统异常|身份证号码格式有误，请重新输入","result":null,"timeOut":false}
+2017-07-05 19:05:07,883 上传白名单失败系统异常|身份证号码格式有误，请重新输入
+2017-07-05 19:05:07,887 推送产品上线失败,同步至恒丰系统失败,产品ID：100000000001000183
+2017-07-05 19:05:07,901 同步100000000001000203标的信息至恒丰系统，请求报文：{"accountName":"科睿科技（杭州）有限公司","accountNo":"1202020309900278266","borrowPeriod":"98","borrowProfit":"0.00","borrowRate":"8.50","businessName":"科睿科技（杭州）有限公司","businessNo":"913301023419572065","collEndDate":"20170804","collStartDate":"20170705","endDate":"20171010","flatProfit":"0.00","investAmount":"500000.00","maxButAmt":"500000.00","minBuyAmt":"1000.00","openBank":"中国工商银行江城支行","orderDate":"20170705","orderTime":"190507","projectLastDate":"20171010","projectName":"淘利宝KR190","projectNo":"100000000001000203","rateRange":"1,30","repaymentType":"1","riskAmount":"0.00","serialNo":"201707051499252707895","startDate":"20170705"}
+2017-07-05 19:05:08,247 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"transDate":"20170705","transTime":"20170705190508"},"timeOut":false}
+2017-07-05 19:05:08,251 同步100000000001000203标的白名单信息信息至恒丰系统，请求报文：{"accountType":"BANKCARD","cardNo":"1202020309900278266","certNo":"913301023419572065","customerName":"科睿科技（杭州）有限公司","orderDate":"20170705","orderTime":"190507","projectNo":"100000000001000203","serialNo":"201707051499252707895"}
+2017-07-05 19:05:08,551 {"success":false,"returnCode":"9998","errorCode":"DE1-103-L4-00-999-99-9998|DE1-103-L4-01-999-99-9997","errorStack":null,"errorMsg":"系统异常|身份证号码格式有误，请重新输入","result":null,"timeOut":false}
+2017-07-05 19:05:08,553 上传白名单失败系统异常|身份证号码格式有误，请重新输入
+2017-07-05 19:05:08,557 推送产品上线失败,同步至恒丰系统失败,产品ID：100000000001000183
+2017-07-05 19:05:08,570 同步100000000001000204标的信息至恒丰系统，请求报文：{"accountName":"科睿科技（杭州）有限公司","accountNo":"1202020309900278266","borrowPeriod":"98","borrowProfit":"0.00","borrowRate":"8.50","businessName":"科睿科技（杭州）有限公司","businessNo":"913301023419572065","collEndDate":"20170804","collStartDate":"20170705","endDate":"20171010","flatProfit":"0.00","investAmount":"110000.00","maxButAmt":"110000.00","minBuyAmt":"1000.00","openBank":"中国工商银行江城支行","orderDate":"20170705","orderTime":"190508","projectLastDate":"20171010","projectName":"淘利宝KR191","projectNo":"100000000001000204","rateRange":"1,30","repaymentType":"1","riskAmount":"0.00","serialNo":"201707051499252708564","startDate":"20170705"}
+2017-07-05 19:05:08,801 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"transDate":"20170705","transTime":"20170705190509"},"timeOut":false}
+2017-07-05 19:05:08,804 同步100000000001000204标的白名单信息信息至恒丰系统，请求报文：{"accountType":"BANKCARD","cardNo":"1202020309900278266","certNo":"913301023419572065","customerName":"科睿科技（杭州）有限公司","orderDate":"20170705","orderTime":"190508","projectNo":"100000000001000204","serialNo":"201707051499252708564"}
+2017-07-05 19:05:15,378 {"success":false,"returnCode":"9998","errorCode":"DE1-103-L4-00-999-99-9998|DE1-103-L4-01-999-99-9997","errorStack":null,"errorMsg":"系统异常|身份证号码格式有误，请重新输入","result":null,"timeOut":false}
+2017-07-05 19:05:15,380 上传白名单失败系统异常|身份证号码格式有误，请重新输入
+2017-07-05 19:05:15,384 推送产品上线失败,同步至恒丰系统失败,产品ID：100000000001000183
+2017-07-05 19:05:15,384 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 19:05:15,384 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 19:05:15,385 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 19:08:00,038 暂无需插入流水表的待生成文件标的
+2017-07-05 19:08:00,040 所有标的信息展示文件生成完毕
+2017-07-05 19:10:00,070 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@1b9c9d74, com.ddsc.dao.systemqueue.SystemQueue@472538d5, com.ddsc.dao.systemqueue.SystemQueue@44547c9d, com.ddsc.dao.systemqueue.SystemQueue@7bffce17, com.ddsc.dao.systemqueue.SystemQueue@5733879a, com.ddsc.dao.systemqueue.SystemQueue@780bbc2f, com.ddsc.dao.systemqueue.SystemQueue@4a6fef3b, com.ddsc.dao.systemqueue.SystemQueue@7ac330aa]
+2017-07-05 19:10:00,072 线上在售队列：{onemonth2=[100000000001000259], new=[100000000001000041], oneyear=[100000000001000145]}
+2017-07-05 19:10:00,088 同步100000000001000284标的信息至恒丰系统，请求报文：{"accountName":"深圳市百合顺供应链管理有限公司","accountNo":"41020000040018539","borrowPeriod":"30","borrowProfit":"0.00","borrowRate":"7.00","businessName":"深圳市百合顺供应链管理有限公司","businessNo":"91440300568502732H","collEndDate":"20170804","collStartDate":"20170705","endDate":"20170804","flatProfit":"0.00","investAmount":"500000.00","maxButAmt":"500000.00","minBuyAmt":"500.00","openBank":"中国农业银行深圳新宝支行","orderDate":"20170705","orderTime":"191000","projectLastDate":"20170804","projectName":"退税宝071","projectNo":"100000000001000284","rateRange":"1,30","repaymentType":"1","riskAmount":"0.00","serialNo":"201707051499253000082","startDate":"20170705"}
+2017-07-05 19:10:06,583 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"transDate":"20170705","transTime":"20170705191007"},"timeOut":false}
+2017-07-05 19:10:06,660 同步标的至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":null,"timeOut":false}
+2017-07-05 19:10:06,666 标的信息同步成功！itemid：100000000001000284
+2017-07-05 19:10:06,697 同步标的兑付计划至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":true,"timeOut":false}
+2017-07-05 19:10:06,697 标的兑付计划同步成功！
+2017-07-05 19:10:06,698 同步标的至本地产品系统成功，
+2017-07-05 19:10:06,706 推送标的上线成功，标的ID：100000000001000284，标的名：退税宝071
+2017-07-05 19:10:06,707 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 19:10:06,722 同步100000000001000228标的信息至恒丰系统，请求报文：{"borrowPeriod":"15","borrowProfit":"0.00","borrowRate":"6.50","cardNo":"6217002290001091437","certNo":"371329199106214221","collEndDate":"20170804","collStartDate":"20170705","customerName":"高千雅","endDate":"20170719","flatProfit":"0.00","investAmount":"90000.00","orderDate":"20170705","orderTime":"191006","projectLastDate":"20170719","projectName":"提薪计划一期JN1401","projectNo":"100000000001000228","rateRange":"1,30","repaymentType":"1","serialNo":"201707051499253006716","startDate":"20170705"}
+2017-07-05 19:10:06,971 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"transDate":"20170705","transTime":"20170705191007"},"timeOut":false}
+2017-07-05 19:10:06,975 同步100000000001000228标的白名单信息信息至恒丰系统，请求报文：{"accountType":"BANKCARD","cardNo":"6236681540006160175","certNo":"33108119811118321X","customerName":"林慧兵","orderDate":"20170705","orderTime":"191006","projectNo":"100000000001000228","serialNo":"201707051499253006716"}
+2017-07-05 19:10:07,241 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"orderSerial":null,"orderDate":"20170705","orderTime":"20170705191007"},"timeOut":false}
+2017-07-05 19:10:07,322 同步标的至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":null,"timeOut":false}
+2017-07-05 19:10:07,322 标的信息同步成功！itemid：100000000001000228
+2017-07-05 19:10:07,346 同步标的兑付计划至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":true,"timeOut":false}
+2017-07-05 19:10:07,347 标的兑付计划同步成功！
+2017-07-05 19:10:07,347 同步标的至本地产品系统成功，
+2017-07-05 19:10:07,357 推送标的上线成功，标的ID：100000000001000228，标的名：提薪计划一期JN1401
+2017-07-05 19:10:07,358 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 19:10:07,359 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 19:10:07,359 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 19:10:07,359 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 19:10:07,360 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 19:15:00,064 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@793b44, com.ddsc.dao.systemqueue.SystemQueue@1721ed9a, com.ddsc.dao.systemqueue.SystemQueue@34762553, com.ddsc.dao.systemqueue.SystemQueue@388c870d, com.ddsc.dao.systemqueue.SystemQueue@11f6837c, com.ddsc.dao.systemqueue.SystemQueue@4f324b1a, com.ddsc.dao.systemqueue.SystemQueue@6ee0c094, com.ddsc.dao.systemqueue.SystemQueue@65836d6a]
+2017-07-05 19:15:00,067 线上在售队列：{onemonth=[100000000001000228], new=[100000000001000041], oneyear=[100000000001000145]}
+2017-07-05 19:15:00,084 同步100000000001000285标的信息至恒丰系统，请求报文：{"accountName":"深圳市百合顺供应链管理有限公司","accountNo":"41020000040018539","borrowPeriod":"30","borrowProfit":"0.00","borrowRate":"7.00","businessName":"深圳市百合顺供应链管理有限公司","businessNo":"91440300568502732H","collEndDate":"20170804","collStartDate":"20170705","endDate":"20170804","flatProfit":"0.00","investAmount":"500000.00","maxButAmt":"500000.00","minBuyAmt":"500.00","openBank":"中国农业银行深圳新宝支行","orderDate":"20170705","orderTime":"191500","projectLastDate":"20170804","projectName":"退税宝072","projectNo":"100000000001000285","rateRange":"1,30","repaymentType":"1","riskAmount":"0.00","serialNo":"201707051499253300078","startDate":"20170705"}
+2017-07-05 19:15:00,331 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"transDate":"20170705","transTime":"20170705191500"},"timeOut":false}
+2017-07-05 19:15:00,407 同步标的至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":null,"timeOut":false}
+2017-07-05 19:15:00,407 标的信息同步成功！itemid：100000000001000285
+2017-07-05 19:15:00,438 同步标的兑付计划至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":true,"timeOut":false}
+2017-07-05 19:15:00,438 标的兑付计划同步成功！
+2017-07-05 19:15:00,438 同步标的至本地产品系统成功，
+2017-07-05 19:15:00,446 推送标的上线成功，标的ID：100000000001000285，标的名：退税宝072
+2017-07-05 19:15:00,448 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 19:15:00,448 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 19:15:00,448 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 19:15:00,449 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 19:15:00,449 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 19:15:00,464 同步100000000001000260标的信息至恒丰系统，请求报文：{"borrowPeriod":"15","borrowProfit":"0.00","borrowRate":"6.50","cardNo":"6212261603013259791","certNo":"370302199304122511","collEndDate":"20170804","collStartDate":"20170705","customerName":"韩柏林","endDate":"20170720","flatProfit":"0.00","investAmount":"80000.00","orderDate":"20170705","orderTime":"191500","projectLastDate":"20170720","projectName":"提薪计划一期JN1502","projectNo":"100000000001000260","rateRange":"1,30","repaymentType":"1","serialNo":"201707051499253300458","startDate":"20170705"}
+2017-07-05 19:15:00,691 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"transDate":"20170705","transTime":"20170705191501"},"timeOut":false}
+2017-07-05 19:15:00,694 同步100000000001000260标的白名单信息信息至恒丰系统，请求报文：{"accountType":"BANKCARD","cardNo":"6236681540006160175","certNo":"33108119811118321X","customerName":"林慧兵","orderDate":"20170705","orderTime":"191500","projectNo":"100000000001000260","serialNo":"201707051499253300458"}
+2017-07-05 19:15:00,932 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"orderSerial":null,"orderDate":"20170705","orderTime":"20170705191501"},"timeOut":false}
+2017-07-05 19:15:01,005 同步标的至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":null,"timeOut":false}
+2017-07-05 19:15:01,005 标的信息同步成功！itemid：100000000001000260
+2017-07-05 19:15:01,029 同步标的兑付计划至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":true,"timeOut":false}
+2017-07-05 19:15:01,030 标的兑付计划同步成功！
+2017-07-05 19:15:01,030 同步标的至本地产品系统成功，
+2017-07-05 19:15:01,038 推送标的上线成功，标的ID：100000000001000260，标的名：提薪计划一期JN1502
+2017-07-05 19:15:01,039 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 19:18:00,035 暂无需插入流水表的待生成文件标的
+2017-07-05 19:18:00,036 所有标的信息展示文件生成完毕
+2017-07-05 19:20:00,070 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@381a9b4d, com.ddsc.dao.systemqueue.SystemQueue@5ac9f901, com.ddsc.dao.systemqueue.SystemQueue@1fadf38, com.ddsc.dao.systemqueue.SystemQueue@7d54d68b, com.ddsc.dao.systemqueue.SystemQueue@4cd17ff5, com.ddsc.dao.systemqueue.SystemQueue@4e27d539, com.ddsc.dao.systemqueue.SystemQueue@191fb945, com.ddsc.dao.systemqueue.SystemQueue@71bc6de5]
+2017-07-05 19:20:00,073 线上在售队列：{onemonth=[100000000001000228], onemonth2=[100000000001000260], new=[100000000001000041], oneyear=[100000000001000145]}
+2017-07-05 19:20:00,074 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 19:20:00,075 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 19:20:00,075 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 19:20:00,075 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 19:20:00,077 推送产品上线失败,该队列为空,队列名：threemonth
+2017-07-05 19:20:00,077 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 19:20:00,077 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 19:20:00,078 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 19:25:00,086 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@59572cd7, com.ddsc.dao.systemqueue.SystemQueue@6a410513, com.ddsc.dao.systemqueue.SystemQueue@52b458e4, com.ddsc.dao.systemqueue.SystemQueue@3e380b27, com.ddsc.dao.systemqueue.SystemQueue@51644d5a, com.ddsc.dao.systemqueue.SystemQueue@10127975, com.ddsc.dao.systemqueue.SystemQueue@2ce3f891, com.ddsc.dao.systemqueue.SystemQueue@2ad40e9d]
+2017-07-05 19:25:00,089 线上在售队列：{onemonth=[100000000001000228], onemonth2=[100000000001000260], new=[100000000001000041], oneyear=[100000000001000145]}
+2017-07-05 19:25:00,091 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 19:25:00,092 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 19:25:00,092 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 19:25:00,093 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 19:25:00,105 同步100000000001000183标的白名单信息信息至恒丰系统，请求报文：{"accountName":"科睿科技（杭州）有限公司","accountNo":"1202020309900278266","accountType":"COMPANY","businessName":"科睿科技（杭州）有限公司","businessNo":"913301023419572065","openBranch":"中国工商银行杭州市江城支行","orderDate":"20170705","orderTime":"192500","projectNo":"100000000001000183","serialNo":"201707051499253900102"}
+2017-07-05 19:25:00,345 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"orderSerial":null,"orderDate":"20170705","orderTime":"20170705192500"},"timeOut":false}
+2017-07-05 19:25:00,420 同步标的至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":null,"timeOut":false}
+2017-07-05 19:25:00,420 标的信息同步成功！itemid：100000000001000183
+2017-07-05 19:25:00,450 同步标的兑付计划至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":true,"timeOut":false}
+2017-07-05 19:25:00,451 标的兑付计划同步成功！
+2017-07-05 19:25:00,451 同步标的至本地产品系统成功，
+2017-07-05 19:25:00,459 推送标的上线成功，标的ID：100000000001000183，标的名：淘利宝KR187
+2017-07-05 19:25:00,460 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 19:25:00,460 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 19:25:00,461 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 19:28:00,033 暂无需插入流水表的待生成文件标的
+2017-07-05 19:28:00,035 所有标的信息展示文件生成完毕
+2017-07-05 19:30:00,067 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@292575ae, com.ddsc.dao.systemqueue.SystemQueue@5a51079c, com.ddsc.dao.systemqueue.SystemQueue@7dcac116, com.ddsc.dao.systemqueue.SystemQueue@a4acbdf, com.ddsc.dao.systemqueue.SystemQueue@348ea2c0, com.ddsc.dao.systemqueue.SystemQueue@5f0635, com.ddsc.dao.systemqueue.SystemQueue@5e9081c3, com.ddsc.dao.systemqueue.SystemQueue@613759b5]
+2017-07-05 19:30:00,071 线上在售队列：{onemonth=[100000000001000228], onemonth2=[100000000001000260], new=[100000000001000041], threemonth=[100000000001000183], oneyear=[100000000001000145]}
+2017-07-05 19:30:00,072 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 19:30:00,088 同步100000000001000286标的信息至恒丰系统，请求报文：{"borrowPeriod":"180","borrowProfit":"0.00","borrowRate":"9.50","cardNo":"6228480240253676615","certNo":"379013197409176219","collEndDate":"20170804","collStartDate":"20170705","customerName":"张伟","endDate":"20180101","flatProfit":"0.00","investAmount":"172000.00","orderDate":"20170705","orderTime":"193000","projectLastDate":"20180101","projectName":"车利丰1号105","projectNo":"100000000001000286","rateRange":"1,30","repaymentType":"1","serialNo":"201707051499254200081","startDate":"20170705"}
+2017-07-05 19:30:00,333 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"transDate":"20170705","transTime":"20170705193000"},"timeOut":false}
+2017-07-05 19:30:00,336 同步100000000001000286标的白名单信息信息至恒丰系统，请求报文：{"accountType":"BANKCARD","cardNo":"6222083803006919287","certNo":"320125197501190017","customerName":"朱强","orderDate":"20170705","orderTime":"193000","projectNo":"100000000001000286","serialNo":"201707051499254200081"}
+2017-07-05 19:30:00,646 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"orderSerial":null,"orderDate":"20170705","orderTime":"20170705193001"},"timeOut":false}
+2017-07-05 19:30:00,722 同步标的至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":null,"timeOut":false}
+2017-07-05 19:30:00,723 标的信息同步成功！itemid：100000000001000286
+2017-07-05 19:30:00,753 同步标的兑付计划至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":true,"timeOut":false}
+2017-07-05 19:30:00,753 标的兑付计划同步成功！
+2017-07-05 19:30:00,753 同步标的至本地产品系统成功，
+2017-07-05 19:30:00,761 推送标的上线成功，标的ID：100000000001000286，标的名：车利丰1号105
+2017-07-05 19:30:00,761 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 19:30:00,762 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 19:30:00,762 该队列无需推标上线，该队列有在售标的：threemonth
+2017-07-05 19:30:00,762 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 19:30:00,762 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 19:30:00,763 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 19:35:00,069 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@19dd45e1, com.ddsc.dao.systemqueue.SystemQueue@e16c40b, com.ddsc.dao.systemqueue.SystemQueue@78a0b566, com.ddsc.dao.systemqueue.SystemQueue@7ee57968, com.ddsc.dao.systemqueue.SystemQueue@b85dbee, com.ddsc.dao.systemqueue.SystemQueue@129ec2b, com.ddsc.dao.systemqueue.SystemQueue@674ffba5, com.ddsc.dao.systemqueue.SystemQueue@341242a0]
+2017-07-05 19:35:00,073 线上在售队列：{onemonth=[100000000001000228], onemonth2=[100000000001000260], new=[100000000001000041], threemonth=[100000000001000183], oneyear=[100000000001000145]}
+2017-07-05 19:35:00,074 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 19:35:00,075 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 19:35:00,076 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 19:35:00,076 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 19:35:00,076 该队列无需推标上线，该队列有在售标的：threemonth
+2017-07-05 19:35:00,076 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 19:35:00,076 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 19:35:00,078 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 19:38:00,034 暂无需插入流水表的待生成文件标的
+2017-07-05 19:38:00,035 所有标的信息展示文件生成完毕
+2017-07-05 19:40:00,092 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@2b3272d7, com.ddsc.dao.systemqueue.SystemQueue@7d119768, com.ddsc.dao.systemqueue.SystemQueue@deb6cfe, com.ddsc.dao.systemqueue.SystemQueue@5b409ed5, com.ddsc.dao.systemqueue.SystemQueue@6f7be0c0, com.ddsc.dao.systemqueue.SystemQueue@2de0966e, com.ddsc.dao.systemqueue.SystemQueue@73b42749, com.ddsc.dao.systemqueue.SystemQueue@387f64f7]
+2017-07-05 19:40:00,095 线上在售队列：{onemonth=[100000000001000228], onemonth2=[100000000001000260], new=[100000000001000041], threemonth=[100000000001000183], oneyear=[100000000001000145]}
+2017-07-05 19:40:00,096 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 19:40:00,098 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 19:40:00,098 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 19:40:00,098 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 19:40:00,098 该队列无需推标上线，该队列有在售标的：threemonth
+2017-07-05 19:40:00,098 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 19:40:00,098 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 19:40:00,099 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 19:45:00,068 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@ce93824, com.ddsc.dao.systemqueue.SystemQueue@2364ca1b, com.ddsc.dao.systemqueue.SystemQueue@2e10c4c4, com.ddsc.dao.systemqueue.SystemQueue@4ee6377c, com.ddsc.dao.systemqueue.SystemQueue@6c44d65b, com.ddsc.dao.systemqueue.SystemQueue@1b5527e5, com.ddsc.dao.systemqueue.SystemQueue@73ae3967, com.ddsc.dao.systemqueue.SystemQueue@333ad486]
+2017-07-05 19:45:00,071 线上在售队列：{onemonth=[100000000001000228], onemonth2=[100000000001000260], new=[100000000001000041], threemonth=[100000000001000183], oneyear=[100000000001000145]}
+2017-07-05 19:45:00,072 推送产品上线失败,该队列为空,队列名：onlinenow
+2017-07-05 19:45:00,074 推送产品上线失败,该队列为空,队列名：sixmonth
+2017-07-05 19:45:00,074 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 19:45:00,074 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 19:45:00,074 该队列无需推标上线，该队列有在售标的：threemonth
+2017-07-05 19:45:00,074 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 19:45:00,074 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 19:45:00,075 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 19:48:00,385 产品说明上传成功,itemid100000000001000292
+2017-07-05 19:48:00,496 文件生成完毕，itemid：100000000001000292
+2017-07-05 19:48:00,683 产品说明上传成功,itemid100000000001000293
+2017-07-05 19:48:00,770 文件生成完毕，itemid：100000000001000293
+2017-07-05 19:48:01,088 产品说明上传成功,itemid100000000001000294
+2017-07-05 19:48:01,179 文件生成完毕，itemid：100000000001000294
+2017-07-05 19:48:01,372 产品说明上传成功,itemid100000000001000295
+2017-07-05 19:48:01,525 文件生成完毕，itemid：100000000001000295
+2017-07-05 19:48:01,727 产品说明上传成功,itemid100000000001000296
+2017-07-05 19:48:01,820 文件生成完毕，itemid：100000000001000296
+2017-07-05 19:48:02,028 产品说明上传成功,itemid100000000001000297
+2017-07-05 19:48:02,198 文件生成完毕，itemid：100000000001000297
+2017-07-05 19:48:02,377 产品说明上传成功,itemid100000000001000298
+2017-07-05 19:48:02,476 文件生成完毕，itemid：100000000001000298
+2017-07-05 19:48:02,696 产品说明上传成功,itemid100000000001000299
+2017-07-05 19:48:02,781 文件生成完毕，itemid：100000000001000299
+2017-07-05 19:48:03,022 产品说明上传成功,itemid100000000001000300
+2017-07-05 19:48:03,112 文件生成完毕，itemid：100000000001000300
+2017-07-05 19:48:03,381 产品说明上传成功,itemid100000000001000301
+2017-07-05 19:48:03,467 文件生成完毕，itemid：100000000001000301
+2017-07-05 19:48:03,934 产品说明上传成功,itemid100000000001000302
+2017-07-05 19:48:04,021 文件生成完毕，itemid：100000000001000302
+2017-07-05 19:48:04,241 产品说明上传成功,itemid100000000001000303
+2017-07-05 19:48:04,349 文件生成完毕，itemid：100000000001000303
+2017-07-05 19:48:04,616 产品说明上传成功,itemid100000000001000304
+2017-07-05 19:48:04,699 文件生成完毕，itemid：100000000001000304
+2017-07-05 19:50:00,095 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@2b885b8b, com.ddsc.dao.systemqueue.SystemQueue@5321901, com.ddsc.dao.systemqueue.SystemQueue@1c079351, com.ddsc.dao.systemqueue.SystemQueue@3558b937, com.ddsc.dao.systemqueue.SystemQueue@53e7e53d, com.ddsc.dao.systemqueue.SystemQueue@1d7b32d4, com.ddsc.dao.systemqueue.SystemQueue@3460b6b, com.ddsc.dao.systemqueue.SystemQueue@6b979f7a]
+2017-07-05 19:50:00,101 线上在售队列：{onemonth=[100000000001000228], onemonth2=[100000000001000260], new=[100000000001000041], sixmonth=[100000000001000286], onlinenow=[100000000001000283, 100000000001000284, 100000000001000285], threemonth=[100000000001000183], oneyear=[100000000001000145]}
+2017-07-05 19:50:00,101 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 19:50:00,101 该队列无需推标上线，该队列有在售标的：sixmonth
+2017-07-05 19:50:00,101 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 19:50:00,102 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 19:50:00,102 该队列无需推标上线，该队列有在售标的：threemonth
+2017-07-05 19:50:00,102 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 19:50:00,102 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 19:50:00,103 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 19:55:00,072 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@44366e1a, com.ddsc.dao.systemqueue.SystemQueue@51768ff2, com.ddsc.dao.systemqueue.SystemQueue@3ee482a6, com.ddsc.dao.systemqueue.SystemQueue@c3d808c, com.ddsc.dao.systemqueue.SystemQueue@19c26d9b, com.ddsc.dao.systemqueue.SystemQueue@2ba9e853, com.ddsc.dao.systemqueue.SystemQueue@1fd3b78a, com.ddsc.dao.systemqueue.SystemQueue@4b6d559]
+2017-07-05 19:55:00,078 线上在售队列：{onemonth=[100000000001000228], onemonth2=[100000000001000260], new=[100000000001000041], sixmonth=[100000000001000286], onlinenow=[100000000001000283, 100000000001000284, 100000000001000285], threemonth=[100000000001000183], oneyear=[100000000001000145]}
+2017-07-05 19:55:00,078 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 19:55:00,079 该队列无需推标上线，该队列有在售标的：sixmonth
+2017-07-05 19:55:00,079 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 19:55:00,079 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 19:55:00,079 该队列无需推标上线，该队列有在售标的：threemonth
+2017-07-05 19:55:00,079 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 19:55:00,080 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 19:55:00,081 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 19:58:00,371 产品说明上传成功,itemid100000000001000305
+2017-07-05 19:58:00,457 文件生成完毕，itemid：100000000001000305
+2017-07-05 19:58:00,694 产品说明上传成功,itemid100000000001000306
+2017-07-05 19:58:00,785 文件生成完毕，itemid：100000000001000306
+2017-07-05 19:58:01,007 产品说明上传成功,itemid100000000001000307
+2017-07-05 19:58:01,094 文件生成完毕，itemid：100000000001000307
+2017-07-05 19:58:01,401 产品说明上传成功,itemid100000000001000308
+2017-07-05 19:58:01,493 文件生成完毕，itemid：100000000001000308
+2017-07-05 19:58:01,961 产品说明上传成功,itemid100000000001000309
+2017-07-05 19:58:03,092 文件生成完毕，itemid：100000000001000309
+2017-07-05 19:58:03,558 产品说明上传成功,itemid100000000001000310
+2017-07-05 19:58:03,663 文件生成完毕，itemid：100000000001000310
+2017-07-05 19:58:03,876 产品说明上传成功,itemid100000000001000311
+2017-07-05 19:58:03,977 文件生成完毕，itemid：100000000001000311
+2017-07-05 19:58:04,165 产品说明上传成功,itemid100000000001000312
+2017-07-05 19:58:04,270 文件生成完毕，itemid：100000000001000312
+2017-07-05 19:58:04,710 产品说明上传成功,itemid100000000001000313
+2017-07-05 19:58:04,802 文件生成完毕，itemid：100000000001000313
+2017-07-05 19:58:05,099 产品说明上传成功,itemid100000000001000314
+2017-07-05 19:58:05,187 文件生成完毕，itemid：100000000001000314
+2017-07-05 19:58:05,376 产品说明上传成功,itemid100000000001000315
+2017-07-05 19:58:05,539 文件生成完毕，itemid：100000000001000315
+2017-07-05 19:58:06,370 产品说明上传成功,itemid100000000001000316
+2017-07-05 19:58:06,448 文件生成完毕，itemid：100000000001000316
+2017-07-05 19:58:06,631 产品说明上传成功,itemid100000000001000317
+2017-07-05 19:58:06,713 文件生成完毕，itemid：100000000001000317
+2017-07-05 19:58:06,939 产品说明上传成功,itemid100000000001000318
+2017-07-05 19:58:07,043 文件生成完毕，itemid：100000000001000318
+2017-07-05 19:58:07,426 产品说明上传成功,itemid100000000001000319
+2017-07-05 19:58:07,507 文件生成完毕，itemid：100000000001000319
+2017-07-05 19:58:07,793 产品说明上传成功,itemid100000000001000320
+2017-07-05 19:58:07,892 文件生成完毕，itemid：100000000001000320
+2017-07-05 19:58:08,080 产品说明上传成功,itemid100000000001000321
+2017-07-05 19:58:08,159 文件生成完毕，itemid：100000000001000321
+2017-07-05 19:58:08,353 产品说明上传成功,itemid100000000001000322
+2017-07-05 19:58:08,430 文件生成完毕，itemid：100000000001000322
+2017-07-05 19:58:08,763 产品说明上传成功,itemid100000000001000323
+2017-07-05 19:58:08,982 文件生成完毕，itemid：100000000001000323
+2017-07-05 19:58:09,180 产品说明上传成功,itemid100000000001000324
+2017-07-05 19:58:09,343 文件生成完毕，itemid：100000000001000324
+2017-07-05 20:00:00,066 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@3cae9f63, com.ddsc.dao.systemqueue.SystemQueue@6c623bb4, com.ddsc.dao.systemqueue.SystemQueue@253dde03, com.ddsc.dao.systemqueue.SystemQueue@baaa0f, com.ddsc.dao.systemqueue.SystemQueue@5ef2bf28, com.ddsc.dao.systemqueue.SystemQueue@12e40bcb, com.ddsc.dao.systemqueue.SystemQueue@39c2461d, com.ddsc.dao.systemqueue.SystemQueue@189378b]
+2017-07-05 20:00:00,072 线上在售队列：{onemonth=[100000000001000228], onemonth2=[100000000001000260], new=[100000000001000041], sixmonth=[100000000001000286], onlinenow=[100000000001000283, 100000000001000284], threemonth=[100000000001000183], oneyear=[100000000001000145]}
+2017-07-05 20:00:00,072 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 20:00:00,072 该队列无需推标上线，该队列有在售标的：sixmonth
+2017-07-05 20:00:00,072 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 20:00:00,073 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 20:00:00,073 该队列无需推标上线，该队列有在售标的：threemonth
+2017-07-05 20:00:00,073 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 20:00:00,073 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 20:00:00,074 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 20:05:00,061 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@c8fb2d0, com.ddsc.dao.systemqueue.SystemQueue@2e247c21, com.ddsc.dao.systemqueue.SystemQueue@5d517231, com.ddsc.dao.systemqueue.SystemQueue@e201ed4, com.ddsc.dao.systemqueue.SystemQueue@5ec7f78a, com.ddsc.dao.systemqueue.SystemQueue@1a4cb5a3, com.ddsc.dao.systemqueue.SystemQueue@2228edd2, com.ddsc.dao.systemqueue.SystemQueue@2d158783]
+2017-07-05 20:05:00,066 线上在售队列：{onemonth=[100000000001000228], onemonth2=[100000000001000260], new=[100000000001000041], sixmonth=[100000000001000286], onlinenow=[100000000001000283], threemonth=[100000000001000183], oneyear=[100000000001000145]}
+2017-07-05 20:05:00,066 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 20:05:00,067 该队列无需推标上线，该队列有在售标的：sixmonth
+2017-07-05 20:05:00,067 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 20:05:00,067 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 20:05:00,067 该队列无需推标上线，该队列有在售标的：threemonth
+2017-07-05 20:05:00,067 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 20:05:00,067 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 20:05:00,068 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 20:08:00,039 暂无需插入流水表的待生成文件标的
+2017-07-05 20:08:00,040 所有标的信息展示文件生成完毕
+2017-07-05 20:10:00,077 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@8247773, com.ddsc.dao.systemqueue.SystemQueue@121e2332, com.ddsc.dao.systemqueue.SystemQueue@7898b0e8, com.ddsc.dao.systemqueue.SystemQueue@70868d32, com.ddsc.dao.systemqueue.SystemQueue@11a00755, com.ddsc.dao.systemqueue.SystemQueue@2141667d, com.ddsc.dao.systemqueue.SystemQueue@4cafa999, com.ddsc.dao.systemqueue.SystemQueue@20a7a324]
+2017-07-05 20:10:00,083 线上在售队列：{onemonth=[100000000001000228], onemonth2=[100000000001000260], new=[100000000001000041], sixmonth=[100000000001000286], onlinenow=[100000000001000283], threemonth=[100000000001000183], oneyear=[100000000001000145]}
+2017-07-05 20:10:00,083 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 20:10:00,083 该队列无需推标上线，该队列有在售标的：sixmonth
+2017-07-05 20:10:00,083 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 20:10:00,084 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 20:10:00,084 该队列无需推标上线，该队列有在售标的：threemonth
+2017-07-05 20:10:00,084 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 20:10:00,084 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 20:10:00,085 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 20:15:00,070 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@38fb1f16, com.ddsc.dao.systemqueue.SystemQueue@6eb5fa93, com.ddsc.dao.systemqueue.SystemQueue@6d5601ad, com.ddsc.dao.systemqueue.SystemQueue@29883cef, com.ddsc.dao.systemqueue.SystemQueue@2f588436, com.ddsc.dao.systemqueue.SystemQueue@5c500d82, com.ddsc.dao.systemqueue.SystemQueue@ba70127, com.ddsc.dao.systemqueue.SystemQueue@13cad6b]
+2017-07-05 20:15:00,074 线上在售队列：{onemonth=[100000000001000228], onemonth2=[100000000001000260], new=[100000000001000041], sixmonth=[100000000001000286], onlinenow=[100000000001000283], threemonth=[100000000001000183], oneyear=[100000000001000145]}
+2017-07-05 20:15:00,075 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 20:15:00,075 该队列无需推标上线，该队列有在售标的：sixmonth
+2017-07-05 20:15:00,075 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 20:15:00,075 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 20:15:00,075 该队列无需推标上线，该队列有在售标的：threemonth
+2017-07-05 20:15:00,075 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 20:15:00,075 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 20:15:00,077 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 20:18:00,034 暂无需插入流水表的待生成文件标的
+2017-07-05 20:18:00,035 所有标的信息展示文件生成完毕
+2017-07-05 20:20:00,059 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@7b52d5ec, com.ddsc.dao.systemqueue.SystemQueue@7b5ab834, com.ddsc.dao.systemqueue.SystemQueue@f39d31, com.ddsc.dao.systemqueue.SystemQueue@79d4fc73, com.ddsc.dao.systemqueue.SystemQueue@e0a2082, com.ddsc.dao.systemqueue.SystemQueue@3adc3e01, com.ddsc.dao.systemqueue.SystemQueue@516ad1d7, com.ddsc.dao.systemqueue.SystemQueue@3bf6a403]
+2017-07-05 20:20:00,064 线上在售队列：{onemonth=[100000000001000228], onemonth2=[100000000001000260], new=[100000000001000041], sixmonth=[100000000001000286], onlinenow=[100000000001000283], threemonth=[100000000001000183], oneyear=[100000000001000145]}
+2017-07-05 20:20:00,064 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 20:20:00,064 该队列无需推标上线，该队列有在售标的：sixmonth
+2017-07-05 20:20:00,064 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 20:20:00,065 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 20:20:00,065 该队列无需推标上线，该队列有在售标的：threemonth
+2017-07-05 20:20:00,065 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 20:20:00,065 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 20:20:00,066 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 20:25:00,070 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@c5ce023, com.ddsc.dao.systemqueue.SystemQueue@257f202c, com.ddsc.dao.systemqueue.SystemQueue@3d193bef, com.ddsc.dao.systemqueue.SystemQueue@43ade73f, com.ddsc.dao.systemqueue.SystemQueue@4e28fbcf, com.ddsc.dao.systemqueue.SystemQueue@64abfb1f, com.ddsc.dao.systemqueue.SystemQueue@56f3e3db, com.ddsc.dao.systemqueue.SystemQueue@25f46b76]
+2017-07-05 20:25:00,074 线上在售队列：{onemonth=[100000000001000228], onemonth2=[100000000001000260], new=[100000000001000041], sixmonth=[100000000001000286], onlinenow=[100000000001000283], threemonth=[100000000001000183], oneyear=[100000000001000145]}
+2017-07-05 20:25:00,074 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 20:25:00,075 该队列无需推标上线，该队列有在售标的：sixmonth
+2017-07-05 20:25:00,075 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 20:25:00,075 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 20:25:00,075 该队列无需推标上线，该队列有在售标的：threemonth
+2017-07-05 20:25:00,075 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 20:25:00,075 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 20:25:00,076 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 20:28:00,031 暂无需插入流水表的待生成文件标的
+2017-07-05 20:28:00,033 所有标的信息展示文件生成完毕
+2017-07-05 20:30:00,066 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@d103dac, com.ddsc.dao.systemqueue.SystemQueue@2540ede7, com.ddsc.dao.systemqueue.SystemQueue@49c2ebcc, com.ddsc.dao.systemqueue.SystemQueue@1c06c3e9, com.ddsc.dao.systemqueue.SystemQueue@28045f, com.ddsc.dao.systemqueue.SystemQueue@4336f90d, com.ddsc.dao.systemqueue.SystemQueue@4e18e6f4, com.ddsc.dao.systemqueue.SystemQueue@44e2c53a]
+2017-07-05 20:30:00,073 线上在售队列：{onemonth=[100000000001000228], onemonth2=[100000000001000260], new=[100000000001000041], sixmonth=[100000000001000286], onlinenow=[100000000001000283], threemonth=[100000000001000183], oneyear=[100000000001000145]}
+2017-07-05 20:30:00,073 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 20:30:00,073 该队列无需推标上线，该队列有在售标的：sixmonth
+2017-07-05 20:30:00,074 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 20:30:00,074 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 20:30:00,074 该队列无需推标上线，该队列有在售标的：threemonth
+2017-07-05 20:30:00,074 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 20:30:00,074 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 20:30:00,076 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 20:35:00,068 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@15e87310, com.ddsc.dao.systemqueue.SystemQueue@4fda2aac, com.ddsc.dao.systemqueue.SystemQueue@7c27ab28, com.ddsc.dao.systemqueue.SystemQueue@10560ec6, com.ddsc.dao.systemqueue.SystemQueue@1e3f18b, com.ddsc.dao.systemqueue.SystemQueue@1c06dda5, com.ddsc.dao.systemqueue.SystemQueue@6c18a03, com.ddsc.dao.systemqueue.SystemQueue@c4bce6c]
+2017-07-05 20:35:00,072 线上在售队列：{onemonth=[100000000001000228], onemonth2=[100000000001000260], new=[100000000001000041], sixmonth=[100000000001000286], onlinenow=[100000000001000283], threemonth=[100000000001000183], oneyear=[100000000001000145]}
+2017-07-05 20:35:00,072 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 20:35:00,073 该队列无需推标上线，该队列有在售标的：sixmonth
+2017-07-05 20:35:00,073 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 20:35:00,073 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 20:35:00,073 该队列无需推标上线，该队列有在售标的：threemonth
+2017-07-05 20:35:00,073 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 20:35:00,073 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 20:35:00,074 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 20:38:00,035 暂无需插入流水表的待生成文件标的
+2017-07-05 20:38:00,036 所有标的信息展示文件生成完毕
+2017-07-05 20:40:00,060 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@1412ea0f, com.ddsc.dao.systemqueue.SystemQueue@65c48914, com.ddsc.dao.systemqueue.SystemQueue@4a03b43e, com.ddsc.dao.systemqueue.SystemQueue@392e7868, com.ddsc.dao.systemqueue.SystemQueue@19e3112c, com.ddsc.dao.systemqueue.SystemQueue@a7c6cfb, com.ddsc.dao.systemqueue.SystemQueue@6ed6d81d, com.ddsc.dao.systemqueue.SystemQueue@5b0690c4]
+2017-07-05 20:40:00,065 线上在售队列：{onemonth=[100000000001000228], onemonth2=[100000000001000260], new=[100000000001000041], sixmonth=[100000000001000286], onlinenow=[100000000001000283], threemonth=[100000000001000183], oneyear=[100000000001000145]}
+2017-07-05 20:40:00,065 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 20:40:00,065 该队列无需推标上线，该队列有在售标的：sixmonth
+2017-07-05 20:40:00,066 该队列无需推标上线，该队列有在售标的：onemonth
+2017-07-05 20:40:00,066 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 20:40:00,066 该队列无需推标上线，该队列有在售标的：threemonth
+2017-07-05 20:40:00,066 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 20:40:00,066 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 20:40:00,067 推送产品上线失败,该队列为空,队列名：onemonth3
+2017-07-05 20:45:00,588 所有队列：[com.ddsc.dao.systemqueue.SystemQueue@19017f49, com.ddsc.dao.systemqueue.SystemQueue@314b9e72, com.ddsc.dao.systemqueue.SystemQueue@5b8f67a6, com.ddsc.dao.systemqueue.SystemQueue@23ddf240, com.ddsc.dao.systemqueue.SystemQueue@404b5a25, com.ddsc.dao.systemqueue.SystemQueue@130b541d, com.ddsc.dao.systemqueue.SystemQueue@4cbf45af, com.ddsc.dao.systemqueue.SystemQueue@21780b86]
+2017-07-05 20:45:00,592 线上标的队列信息:[{"activity":{"activityContent":"","activityLabel":"","activityUrl":"","tagUrl":"http://img.ddsoucai.com/banners/20170621140921.png"},"additionType":"NO_ADDITION","additionValue":0.00,"amount":674800.00,"annualRate":11.0000,"couponTag":["A000","A030","A040","A050","A080","A160","A170"],"createTime":1499238300000,"dayUnitIncome":0.0200,"days":365,"expireTime":"","expireType":"FIX_DAY","isPrivate":"NO","isTop":"NO","maxShare":1,"minShare":1,"modifyTime":1499258215000,"periods":12,"productId":"100000000001000145","productName":"享分期A一期WH047","productType":"57","queueNum":"oneyear","remainAmount":472500.00,"returnType":"按月还部分本金，到期付息","showChannel":"0","showTime":1499082287000,"startTime":1499082287000,"state":"RAISING","systemTime":1499258700107,"tag":"HOT","totalIncome":56953.12,"totalShare":6748,"unitAmount":100.00},{"activity":{"activityContent":"","activityLabel":"","activityUrl":"","tagUrl":"http://img.ddsoucai.com/banners/20170621141022.png"},"additionContent":"","additionType":"ADDITION_INTEREST","additionValue":3.30,"amount":200000.00,"annualRate":6.5000,"couponTag":["A000"],"createTime":1499179200000,"dayUnitIncome":0.0300,"days":13,"expireTime":"20170719","expireType":"FIX_DATE","isPrivate":"NO","isTop":"NO","maxShare":1,"minShare":1,"modifyTime":1499253908000,"periods":1,"productId":"100000000001000041","productName":"车易宝2号323","productType":"31","queueNum":"new","remainAmount":118000.00,"returnType":"一次性到期还本付息到账户余额","showChannel":"0","showTime":1498816567000,"startTime":1498816567000,"state":"RAISING","systemTime":1499258700107,"tag":"NEW","totalIncome":800.00,"totalShare":2000,"unitAmount":100.00},{"activity":{"activityContent":"本产品加入提薪计划，连续购买3个月，享受30%加息福利","activityLabel":"最高送30%收益","activityUrl":"http://web2.ddsoucai.com/activity/payPlan/index.html","tagUrl":"http://img.ddsoucai.com/banners/20170621140756.png"},"additionContent":"本产品加入提薪计划，连续购买3个月，享受30%加息福利","additionType":"NO_ADDITION","additionValue":0.00,"amount":80000.00,"annualRate":6.5000,"couponTag":["A000"],"createTime":1499253300000,"dayUnitIncome":0.0900,"days":14,"expireTime":"20170720","expireType":"FIX_DATE","isPrivate":"NO","isTop":"NO","maxShare":1,"minShare":1,"modifyTime":1499258433000,"periods":1,"productId":"100000000001000260","productName":"提薪计划一期JN1502","productType":"56","queueNum":"onemonth2","remainAmount":500.00,"returnType":"一次性到期还本付息到账户余额","showChannel":"0","showTime":1499220220000,"startTime":1499220220000,"state":"RAISING","systemTime":1499258700108,"tag":"HOT","totalIncome":214.40,"totalShare":160,"unitAmount":500.00},{"activity":{"activityContent":"","activityLabel":"","activityUrl":""},"additionType":"NO_ADDITION","additionValue":0.00,"amount":500000.00,"annualRate":7.0000,"couponTag":["A000","A030","D030"],"createTime":1499252700000,"dayUnitIncome":0.1000,"days":29,"expireTime":"20170804","expireType":"FIX_DATE","isPrivate":"NO","isTop":"NO","maxShare":1,"minShare":1,"modifyTime":1499258616000,"periods":1,"productId":"100000000001000283","productName":"退税宝070","productType":"36","queueNum":"onlinenow","remainAmount":405500.00,"returnType":"一次性到期还本付息到账户余额","showChannel":"0","showTime":1499255280000,"startTime":1499255280000,"state":"RAISING","systemTime":1499258700108,"tag":"HOT","totalIncome":2880.00,"totalShare":1000,"unitAmount":500.00},{"activity":{"activityContent":"","activityLabel":"","activityUrl":""},"additionType":"NO_ADDITION","additionValue":0.00,"amount":691000.00,"annualRate":8.5000,"couponTag":["A000","A030","A040","A050","A080","D030","D040"],"createTime":1499253900000,"dayUnitIncome":0.2300,"days":98,"expireTime":"20171012","expireType":"FIX_DATE","isPrivate":"NO","isTop":"NO","maxShare":1,"minShare":1,"modifyTime":1499258379000,"periods":1,"productId":"100000000001000183","productName":"淘利宝KR187","productType":"64","queueNum":"threemonth","remainAmount":425000.00,"returnType":"一次性到期还本付息到账户余额","showChannel":"0","showTime":1499134340000,"startTime":1499134340000,"state":"RAISING","systemTime":1499258700108,"tag":"HOT","totalIncome":16093.39,"totalShare":691,"unitAmount":1000.00},{"activity":{"activityContent":"","activityLabel":"","activityUrl":""},"additionType":"NO_ADDITION","additionValue":0.00,"amount":172000.00,"annualRate":9.5000,"couponTag":["A000","A030","A040","A050","A080","A160","A170","D030","D040"],"createTime":1499254200000,"dayUnitIncome":0.2600,"days":179,"expireTime":"20180101","expireType":"FIX_DATE","isPrivate":"NO","isTop":"NO","maxShare":1,"minShare":1,"modifyTime":1499258514000,"periods":1,"productId":"100000000001000286","productName":"车利丰1号105","productType":"59","queueNum":"sixmonth","remainAmount":103000.00,"returnType":"一次性到期还本付息到账户余额","showChannel":"0","showTime":1499255380000,"startTime":1499255380000,"state":"RAISING","systemTime":1499258700108,"tag":"HOT","totalIncome":8058.20,"totalShare":172,"unitAmount":1000.00}]
+2017-07-05 20:45:00,598 线上在售队列：{onemonth2=[100000000001000260], new=[100000000001000041], sixmonth=[100000000001000286], onlinenow=[100000000001000283], threemonth=[100000000001000183], oneyear=[100000000001000145]}
+2017-07-05 20:45:00,598 该队列无需推标上线，该队列有在售标的：onlinenow
+2017-07-05 20:45:00,599 该队列无需推标上线，该队列有在售标的：sixmonth
+2017-07-05 20:45:00,643 同步100000000001000230标的信息至恒丰系统，请求报文：{"borrowPeriod":"15","borrowProfit":"0.00","borrowRate":"6.50","cardNo":"6217790001129816654","certNo":"522732198312086536","collEndDate":"20170804","collStartDate":"20170705","customerName":"黄健","endDate":"20170719","flatProfit":"0.00","investAmount":"82000.00","orderDate":"20170705","orderTime":"204500","projectLastDate":"20170719","projectName":"提薪计划一期JN1402","projectNo":"100000000001000230","rateRange":"1,30","repaymentType":"1","serialNo":"201707051499258700632","startDate":"20170705"}
+2017-07-05 20:45:00,905 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"transDate":"20170705","transTime":"20170705204501"},"timeOut":false}
+2017-07-05 20:45:00,913 同步100000000001000230标的白名单信息信息至恒丰系统，请求报文：{"accountType":"BANKCARD","cardNo":"6236681540006160175","certNo":"33108119811118321X","customerName":"林慧兵","orderDate":"20170705","orderTime":"204500","projectNo":"100000000001000230","serialNo":"201707051499258700632"}
+2017-07-05 20:45:01,217 {"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":{"orderSerial":null,"orderDate":"20170705","orderTime":"20170705204501"},"timeOut":false}
+2017-07-05 20:45:01,309 同步标的至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":null,"timeOut":false}
+2017-07-05 20:45:01,309 标的信息同步成功！itemid：100000000001000230
+2017-07-05 20:45:01,341 同步标的兑付计划至本地产品系统返回报文：{"success":true,"returnCode":"200","errorCode":null,"errorStack":null,"errorMsg":null,"result":true,"timeOut":false}
+2017-07-05 20:45:01,341 标的兑付计划同步成功！
+2017-07-05 20:45:01,342 同步标的至本地产品系统成功，
+2017-07-05 20:45:01,354 推送标的上线成功，标的ID：100000000001000230，标的名：提薪计划一期JN1402
+2017-07-05 20:45:01,354 该队列无需推标上线，该队列有在售标的：new
+2017-07-05 20:45:01,354 该队列无需推标上线，该队列有在售标的：threemonth
+2017-07-05 20:45:01,355 该队列无需推标上线，该队列有在售标的：oneyear
+2017-07-05 20:45:01,355 该队列无需推标上线，该队列有在售标的：onemonth2
+2017-07-05 20:45:01,356 推送产品上线失败,该队列为空,队列名：onemonth3
